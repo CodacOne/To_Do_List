@@ -1,0 +1,11 @@
+D:\Abu hadhoud\abu hadhoud\Course RestFill API\TodoApp.Domain\bin\Debug\net8.0\TodoApp.Domain.deps.json
+D:\Abu hadhoud\abu hadhoud\Course RestFill API\TodoApp.Domain\bin\Debug\net8.0\TodoApp.Domain.dll
+D:\Abu hadhoud\abu hadhoud\Course RestFill API\TodoApp.Domain\bin\Debug\net8.0\TodoApp.Domain.pdb
+D:\Abu hadhoud\abu hadhoud\Course RestFill API\TodoApp.Domain\obj\Debug\net8.0\TodoApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abu hadhoud\abu hadhoud\Course RestFill API\TodoApp.Domain\obj\Debug\net8.0\TodoApp.Domain.AssemblyInfoInputs.cache
+D:\Abu hadhoud\abu hadhoud\Course RestFill API\TodoApp.Domain\obj\Debug\net8.0\TodoApp.Domain.AssemblyInfo.cs
+D:\Abu hadhoud\abu hadhoud\Course RestFill API\TodoApp.Domain\obj\Debug\net8.0\TodoApp.Domain.csproj.CoreCompileInputs.cache
+D:\Abu hadhoud\abu hadhoud\Course RestFill API\TodoApp.Domain\obj\Debug\net8.0\TodoApp.Domain.dll
+D:\Abu hadhoud\abu hadhoud\Course RestFill API\TodoApp.Domain\obj\Debug\net8.0\refint\TodoApp.Domain.dll
+D:\Abu hadhoud\abu hadhoud\Course RestFill API\TodoApp.Domain\obj\Debug\net8.0\TodoApp.Domain.pdb
+D:\Abu hadhoud\abu hadhoud\Course RestFill API\TodoApp.Domain\obj\Debug\net8.0\ref\TodoApp.Domain.dll

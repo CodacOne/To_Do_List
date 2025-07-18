@@ -1,0 +1,15 @@
+D:\Abu hadhoud\abu hadhoud\Course RestFill API\TodoApp.Application\bin\Debug\net8.0\TodoApp.Application.deps.json
+D:\Abu hadhoud\abu hadhoud\Course RestFill API\TodoApp.Application\bin\Debug\net8.0\TodoApp.Application.dll
+D:\Abu hadhoud\abu hadhoud\Course RestFill API\TodoApp.Application\bin\Debug\net8.0\TodoApp.Application.pdb
+D:\Abu hadhoud\abu hadhoud\Course RestFill API\TodoApp.Application\bin\Debug\net8.0\TodoApp.Domain.dll
+D:\Abu hadhoud\abu hadhoud\Course RestFill API\TodoApp.Application\bin\Debug\net8.0\TodoApp.Domain.pdb
+D:\Abu hadhoud\abu hadhoud\Course RestFill API\TodoApp.Application\obj\Debug\net8.0\TodoApp.Application.csproj.AssemblyReference.cache
+D:\Abu hadhoud\abu hadhoud\Course RestFill API\TodoApp.Application\obj\Debug\net8.0\TodoApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abu hadhoud\abu hadhoud\Course RestFill API\TodoApp.Application\obj\Debug\net8.0\TodoApp.Application.AssemblyInfoInputs.cache
+D:\Abu hadhoud\abu hadhoud\Course RestFill API\TodoApp.Application\obj\Debug\net8.0\TodoApp.Application.AssemblyInfo.cs
+D:\Abu hadhoud\abu hadhoud\Course RestFill API\TodoApp.Application\obj\Debug\net8.0\TodoApp.Application.csproj.CoreCompileInputs.cache
+D:\Abu hadhoud\abu hadhoud\Course RestFill API\TodoApp.Application\obj\Debug\net8.0\TodoApp..05D78BBE.Up2Date
+D:\Abu hadhoud\abu hadhoud\Course RestFill API\TodoApp.Application\obj\Debug\net8.0\TodoApp.Application.dll
+D:\Abu hadhoud\abu hadhoud\Course RestFill API\TodoApp.Application\obj\Debug\net8.0\refint\TodoApp.Application.dll
+D:\Abu hadhoud\abu hadhoud\Course RestFill API\TodoApp.Application\obj\Debug\net8.0\TodoApp.Application.pdb
+D:\Abu hadhoud\abu hadhoud\Course RestFill API\TodoApp.Application\obj\Debug\net8.0\ref\TodoApp.Application.dll
